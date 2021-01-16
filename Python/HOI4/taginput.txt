@@ -1,0 +1,8 @@
+XKW,2nd Division,Siang
+JNN,3rd Division,Hunan-Honan
+HNN,Hunan Clique,Hunanese
+FYX,16th Mixed Brigade,Chihli-Hunan
+CJY,Yuanling Garrison,Yuanling
+TYZ,West Hunan Clique,Western Hunanese
+ZZF,Chikiang Garrison,Chikiang
+ZOW,Wukang Garrison, Wukang

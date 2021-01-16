@@ -1,0 +1,19 @@
+#### Do not copy in spriteTypes = {	or its matching close bracket 
+    #### Comments like this are fine, but do note they will be kept in the output.
+	
+    #### Ideally inputs should be kept like this. Indentation and extra newlines will not affect result.
+    #### Do NOT add extra close brackets. Make sure close brackets match.
+    #### The script will preserve any extra Indentation or extra newlines. This is not a formatter!
+
+    #### Generic continuous goal icons
+
+SpriteType = { #This bloc is an acceptable input
+	name = "GFX_goal_continuous_air_production"
+	texturefile = "gfx/interface/goals/goal_continuous_air_production.dds"
+
+} 	#### Please keep the close bracket on its own line! Do not add anything after it (comments are fine). 
+
+    SpriteType = { #This bloc is the ideal input (indented for convienence)
+	    name = "GFX_goal_continuous_air_production"
+	    texturefile = "gfx/interface/goals/goal_continuous_air_production.dds"			
+    }

@@ -1,0 +1,173 @@
+    SpriteType = { 
+		name = "GFX_authoritarian_democracy"
+		texturefile = "gfx/interface/goals/Authoritarian_Democracy.tga"
+	}
+
+	SpriteType = { 
+		name = "GFX_befriend_united_states"
+		texturefile = "gfx/interface/goals/Befriend_America.tga"
+	}
+
+	SpriteType = { 
+		name = "GFX_british_foreign_office"
+		texturefile = "gfx/interface/goals/British_Foreign_Office.tga"
+	}
+
+	SpriteType = { 
+		name = "GFX_focus_examine_foreign_laws"
+		texturefile = "gfx/interface/goals/Focus_Examine_Foreign_Laws.tga"
+	}
+
+	SpriteType = { 
+		name = "GFX_focus_examine_foreign_science"
+		texturefile = "gfx/interface/goals/Focus_Examine_Foreign_Science.tga"
+	}
+
+	SpriteType = { 
+		name = "GFX_goal_export_economy"
+		texturefile = "gfx/interface/goals/Focus_Exports_Economy.tga"
+	}
+
+	SpriteType = { 
+		name = "GFX_red_cross"
+		texturefile = "gfx/interface/goals/Focus_Red_Cross.tga"
+	}
+	
+	SpriteType = { 
+		name = "GFX_goal_generic_agriculture"
+		texturefile = "gfx/interface/goals/Generic_Agriculture.tga"
+	}
+
+	SpriteType = { 
+		name = "GFX_red_goal_army_focus"
+		texturefile = "gfx/interface/goals/Generic_Army_Focus_Red.tga"
+	}
+	
+	SpriteType = { 
+		name = "GFX_goal_buddhism"
+		texturefile = "gfx/interface/goals/Generic_Buddhism.tga"
+	}
+	
+	SpriteType = { 
+		name = "GFX_goal_desert_warfare"
+		texturefile = "gfx/interface/goals/Generic_Desert_Warfare.tga"
+	}
+	
+	SpriteType = { 
+		name = "GFX_goal_quiet_path_to_enlightenment"
+		texturefile = "gfx/interface/goals/Generic_Enlightenment.tga"
+	}
+	
+	SpriteType = { 
+		name = "GFX_goal_generic_factionalism"
+		texturefile = "gfx/interface/goals/Generic_Factionalism.tga"
+	}
+	
+	SpriteType = { 
+		name = "GFX_support_farmer_unions"
+		texturefile = "gfx/interface/goals/Generic_Farmer_Unions.tga"
+	}
+		
+	SpriteType = { 
+		name = "GFX_generic_support_the_film_industry"
+		texturefile = "gfx/interface/goals/Generic_Film_Industry.tga"
+	}
+		
+	SpriteType = { 
+		name = "GFX_generic_grow_opium"
+		texturefile = "gfx/interface/goals/Generic_Grow_Opium.tga"
+	}
+		
+	SpriteType = { 
+		name = "GFX_goal_land_reform"
+		texturefile = "gfx/interface/goals/Generic_Land_Reform.tga"
+	}
+		
+	SpriteType = { 
+		name = "GFX_goal_diplomatic_meeting"
+		texturefile = "gfx/interface/goals/Generic_Meeting.tga"
+	}
+		
+	SpriteType = { 
+		name = "GFX_goal_mountain_warfare"
+		texturefile = "gfx/interface/goals/Generic_Mountain_Warfare.tga"
+	}
+		
+	SpriteType = { 
+		name = "GFX_goal_generic_radio"
+		texturefile = "gfx/interface/goals/Generic_Radio_Communication.tga"
+	}
+			
+	SpriteType = { 
+		name = "GFX_goal_rally_the_troops"
+		texturefile = "gfx/interface/goals/Generic_Rally_The_Troops.tga"
+	}
+			
+	SpriteType = { 
+		name = "GFX_goal_reform_agriculture"
+		texturefile = "gfx/interface/goals/Generic_Reform_Agriculture.tga"
+	}
+			
+	SpriteType = { 
+		name = "GFX_generic_rice"
+		texturefile = "gfx/interface/goals/Generic_Rice.tga"
+	}
+			
+	SpriteType = { 
+		name = "GFX_generic_tobacco"
+		texturefile = "gfx/interface/goals/Generic_Tobacco.tga"
+	}
+			
+	SpriteType = { 
+		name = "GFX_generic_focus_train"
+		texturefile = "gfx/interface/goals/Generic_Train.tga"
+	}
+			
+	SpriteType = { 
+		name = "GFX_warlord_era_map_goal"
+		texturefile = "gfx/interface/goals/Generic_Warlord_Era.tga"
+	}
+			
+	SpriteType = { 
+		name = "GFX_goal_yunnan_kunming_coup"
+		texturefile = "gfx/interface/goals/Kunming_Coup.tga"
+	}
+				
+	SpriteType = { 
+		name = "GFX_goal_peace_at_last"
+		texturefile = "gfx/interface/goals/Peace_At_Last.tga"
+	}
+					
+	SpriteType = { 
+		name = "GFX_goal_yunnan_renovate_kunming"
+		texturefile = "gfx/interface/goals/Renovate_Kunming.tga"
+	}
+					
+	SpriteType = { 
+		name = "GFX_generic_sea_focus_navy"
+		texturefile = "gfx/interface/goals/Sea_Focus_Navy.tga"
+	}
+					
+	SpriteType = { 
+		name = "GFX_goal_support_federalism"
+		texturefile = "gfx/interface/goals/Support_Federalism.tga"
+	}
+	SpriteType = { 
+		name = "GFX_goal_support_federalism_shine"
+		texturefile = "gfx/interface/goals/Support_Federalism.tga"
+	}
+						
+	SpriteType = { 
+		name = "GFX_goal_european_relations"
+		texturefile = "gfx/interface/goals/Diplomacy_Europe.tga"
+	}
+						
+	SpriteType = { 
+		name = "GFX_goal_asian_relations"
+		texturefile = "gfx/interface/goals/Diplomacy_Asia.tga"
+	}
+	
+	SpriteType = { 
+		name = "GFX_goal_generic_french_kepi"
+		texturefile = "gfx/interface/goals/Generic_French_Kepi.tga"
+	}

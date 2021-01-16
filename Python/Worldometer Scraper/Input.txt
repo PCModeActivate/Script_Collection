@@ -1,0 +1,46 @@
+Israel, 22.34
+United Arab Emirates, 14.10
+Bahrain, 5.75
+United Kingdom, 4.19
+United States, 2.82
+Denmark, 2.02
+Iceland, 1.43
+Italy, 1.32
+Slovenia, 1.18
+Spain, 1.04
+Canada, 1.03
+Estonia, 1.02
+Lithuania, 1.00
+Hungary, 0.90
+Croatia, 0.84
+Germany, 0.82
+Poland, 0.82
+Sweden, 0.79
+Romania, 0.73
+Ireland, 0.71
+China, 0.69
+Portugal, 0.69
+Cyprus, 0.69
+Austria, 0.59
+Slovakia, 0.58
+Russia, 0.55
+Greece, 0.54
+Latvia, 0.52
+Saudi Arabia, 0.51
+Belgium, 0.46
+Oman, 0.40
+Norway, 0.39
+Finland, 0.32
+Malta, 0.32
+Luxembourg, 0.31
+France, 0.29
+Netherlands, 0.26
+Argentina, 0.24
+Bulgaria, 0.23
+Costa Rica, 0.19
+Czechia), 0.19
+Serbia, 0.14
+Mexico, 0.07
+Chile, 0.06
+Kuwait, 0.06
+Guinea, 0.00

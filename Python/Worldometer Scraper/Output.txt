@@ -1,0 +1,46 @@
+Israel, 1933646
+United Arab Emirates, 1394546
+Bahrain, 97840
+United Kingdom, 2844423
+United States, 9334274
+Denmark, 117002
+Iceland, 4879
+Italy, 798096
+Slovenia, 24531
+Spain, 486249
+Canada, 388744
+Estonia, 13530
+Lithuania, 27222
+Hungary, 86943
+Croatia, 34484
+Germany, 687028
+Poland, 310342
+Sweden, 79784
+Romania, 140435
+Ireland, 35058
+China, 9931334
+Portugal, 70357
+Cyprus, 8330
+Austria, 53137
+Slovakia, 31665
+Russia, 802639
+Greece, 56284
+Latvia, 9808
+Saudi Arabia, 177550
+Belgium, 53312
+Oman, 20426
+Norway, 21142
+Finland, 17730
+Malta, 1412
+Luxembourg, 1940
+France, 189293
+Netherlands, 44550
+Argentina, 108469
+Bulgaria, 15981
+Costa Rica, 9678
+Czechia), 20347
+Serbia, 12232
+Mexico, 90252
+Chile, 11469
+Kuwait, 2562
+Guinea, 0
